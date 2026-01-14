@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--mysite2--froesef.aem.page/
+- Live: https://main--mysite2--froesef.aem.live/
 
 ## Documentation
 
